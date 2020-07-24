@@ -1,0 +1,17 @@
+what (if any) bugs you found in your own Board implementation:
+
+Our own board implementation was generally okay but there are two small things
+that we found: in the other boards the positions without letters are empty, but
+our board put a char value in it, causing potential problems for checking 
+getLetterAt() problem. Additionally, we realized that we can simplify some parts
+of the PlayWord() method so the program will have a better performance.
+We have updated our board implementations, fix the small problems mentioned above
+and also made them more compact.
+
+
+what bug was present in the app.BrokenBoard class you got from the TAs:
+
+The coordinates in the broken board we got is swapped by mistake. As a result,
+the words that are supposed to be horizontal ended up being vertical and the words
+that are vertical ended up being horizontal. The mistake was a very obviouly one and 
+we can get it by looking at the output but also through the getLetterAt() method.
