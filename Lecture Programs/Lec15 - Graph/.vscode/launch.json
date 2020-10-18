@@ -1,0 +1,60 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestLinkedListNodes",
+			"request": "launch",
+			"mainClass": "app.TestLinkedListNodes",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestLinkedList",
+			"request": "launch",
+			"mainClass": "app.TestLinkedList",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestFiles",
+			"request": "launch",
+			"mainClass": "app.TestFiles",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SortNumbers",
+			"request": "launch",
+			"mainClass": "app.SortNumbers",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestDriver",
+			"request": "launch",
+			"mainClass": "app.TestDriver",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "app.AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Stopwatch",
+			"request": "launch",
+			"mainClass": "Stopwatch",
+			"projectName": "Collections"
+		}
+	]
+}

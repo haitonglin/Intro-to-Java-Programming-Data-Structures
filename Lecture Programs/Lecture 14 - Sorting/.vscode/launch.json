@@ -1,0 +1,53 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Merge",
+			"request": "launch",
+			"mainClass": "app.Merge",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Insertion",
+			"request": "launch",
+			"mainClass": "app.Insertion",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SortNumbers",
+			"request": "launch",
+			"mainClass": "app.SortNumbers",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestDriver",
+			"request": "launch",
+			"mainClass": "app.TestDriver",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "app.AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Stopwatch",
+			"request": "launch",
+			"mainClass": "Stopwatch",
+			"projectName": "Collections"
+		}
+	]
+}

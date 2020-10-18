@@ -1,0 +1,32 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - MinesweeperAll",
+			"request": "launch",
+			"mainClass": "app.MinesweeperAll",
+			"projectName": "Minesweeper"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Minesweeper2",
+			"request": "launch",
+			"mainClass": "app.Minesweeper2",
+			"projectName": "Minesweeper"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Minesweeper",
+			"request": "launch",
+			"mainClass": "Minesweeper",
+			"projectName": "Minesweeper"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - App",
+			"request": "launch",
+			"mainClass": "app.App",
+			"projectName": "Minesweeper"
+		}
+	]
+}

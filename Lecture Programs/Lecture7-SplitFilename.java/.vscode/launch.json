@@ -1,0 +1,18 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SplitFilename",
+			"request": "launch",
+			"mainClass": "app.SplitFilename",
+			"projectName": "SplitFilename.java"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SplitFilename",
+			"request": "launch",
+			"mainClass": "SplitFilename",
+			"projectName": "SplitFilename.java"
+		}
+	]
+}

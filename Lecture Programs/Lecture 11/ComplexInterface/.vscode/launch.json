@@ -1,0 +1,18 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Test",
+			"request": "launch",
+			"mainClass": "app.Test",
+			"projectName": "ComplexInterface"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Test",
+			"request": "launch",
+			"mainClass": "Test",
+			"projectName": "ComplexInterface"
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AddNumbers",
+			"request": "launch",
+			"mainClass": "app.AddNumbers",
+			"projectName": "AddNumbers"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - PrintTwoRandomNumbers",
+			"request": "launch",
+			"mainClass": "app.PrintTwoRandomNumbers",
+			"projectName": "AddNumbers"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AddNumbers",
+			"request": "launch",
+			"mainClass": "AddNumbers",
+			"projectName": "AddNumbers"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Quiz2",
+			"request": "launch",
+			"mainClass": "Quiz2",
+			"projectName": "AddNumbers"
+		}
+	]
+}

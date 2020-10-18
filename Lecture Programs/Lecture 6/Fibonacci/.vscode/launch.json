@@ -1,0 +1,32 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TopDownFibonacci",
+			"request": "launch",
+			"mainClass": "app.TopDownFibonacci",
+			"projectName": "Fibonacci"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Fibonacci",
+			"request": "launch",
+			"mainClass": "app.Fibonacci",
+			"projectName": "Fibonacci"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TopDownFibonacci",
+			"request": "launch",
+			"mainClass": "TopDownFibonacci",
+			"projectName": "Fibonacci"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Fibonacci",
+			"request": "launch",
+			"mainClass": "Fibonacci",
+			"projectName": "Fibonacci"
+		}
+	]
+}

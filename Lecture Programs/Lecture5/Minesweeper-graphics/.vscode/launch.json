@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Copy",
+			"request": "launch",
+			"mainClass": "app.Copy",
+			"projectName": "Minesweeper"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Minesweeper",
+			"request": "launch",
+			"mainClass": "app.Minesweeper",
+			"projectName": "Minesweeper"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Minesweeper",
+			"request": "launch",
+			"mainClass": "Minesweeper",
+			"projectName": "Minesweeper"
+		}
+	]
+}

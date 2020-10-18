@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Cat",
+			"request": "launch",
+			"mainClass": "app.Cat",
+			"projectName": "Fade"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Fade",
+			"request": "launch",
+			"mainClass": "app.Fade",
+			"projectName": "Fade"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Fade",
+			"request": "launch",
+			"mainClass": "Fade",
+			"projectName": "Fade"
+		}
+	]
+}

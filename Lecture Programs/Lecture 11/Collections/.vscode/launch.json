@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "app.AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - AirportCollectionTest",
+			"request": "launch",
+			"mainClass": "AirportCollectionTest",
+			"projectName": "Collections"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Stopwatch",
+			"request": "launch",
+			"mainClass": "Stopwatch",
+			"projectName": "Collections"
+		}
+	]
+}

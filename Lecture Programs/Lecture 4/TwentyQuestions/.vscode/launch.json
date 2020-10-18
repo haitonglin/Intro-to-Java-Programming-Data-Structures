@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TwentyQuestions",
+			"request": "launch",
+			"mainClass": "app.TwentyQuestions",
+			"projectName": "TwentyQuestions"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ValueVsReference",
+			"request": "launch",
+			"mainClass": "ValueVsReference",
+			"projectName": "TwentyQuestions"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TwentyQuestions",
+			"request": "launch",
+			"mainClass": "TwentyQuestions",
+			"projectName": "TwentyQuestions"
+		}
+	]
+}
